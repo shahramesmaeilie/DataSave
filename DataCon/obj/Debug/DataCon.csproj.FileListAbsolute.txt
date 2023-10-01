@@ -1,0 +1,8 @@
+D:\tamrinc#\DataCon\DataCon\bin\Debug\DataCon.exe.config
+D:\tamrinc#\DataCon\DataCon\bin\Debug\DataCon.exe
+D:\tamrinc#\DataCon\DataCon\bin\Debug\DataCon.pdb
+D:\tamrinc#\DataCon\DataCon\obj\Debug\DataCon.csproj.AssemblyReference.cache
+D:\tamrinc#\DataCon\DataCon\obj\Debug\DataCon.csproj.SuggestedBindingRedirects.cache
+D:\tamrinc#\DataCon\DataCon\obj\Debug\DataCon.csproj.CoreCompileInputs.cache
+D:\tamrinc#\DataCon\DataCon\obj\Debug\DataCon.exe
+D:\tamrinc#\DataCon\DataCon\obj\Debug\DataCon.pdb
